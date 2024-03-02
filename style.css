@@ -1,0 +1,33 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+.Questions {
+  display: flex;
+  max-width: 100%;
+  justify-content: space-between;
+}
+.answers {
+  background-color: #a6e9bd;
+  transition: 0.5s;
+  height: 9rem;
+  overflow: hidden;
+}
+button {
+  background-color: #faf690;
+}
+button:hover {
+  background-color: #f4c451;
+}
+.close-answer1 {
+  height: 0;
+}
+.close-answer2 {
+  height: 0;
+}
+.close-answer3 {
+  height: 0;
+}
+.close-answer4 {
+  height: 0;
+}
